@@ -1,5 +1,6 @@
 target/
 .idea/
 atlassian-ide-plugin.xml
-gradebook.iml
+*.iml
+
 
